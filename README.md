@@ -1,4 +1,4 @@
 # Testando. (JavaScript):grin: :computer:
- Repositório JS.
+ Treinando JS
  
  Essa alteração foi pelo GitHub.
